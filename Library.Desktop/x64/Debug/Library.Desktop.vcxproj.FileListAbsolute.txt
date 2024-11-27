@@ -1,0 +1,10 @@
+D:\foziljonov7\dev\Library\Library.Desktop\x64\Debug\Library.Desktop.vcxproj.AssemblyReference.cache
+D:\foziljonov7\dev\Library\Library.Desktop\x64\Debug\LibraryDesktop.BooksPage.resources
+D:\foziljonov7\dev\Library\Library.Desktop\x64\Debug\LibraryDesktop.CategoryComponent.resources
+D:\foziljonov7\dev\Library\Library.Desktop\x64\Debug\LibraryDesktop.CreateBookWindow.resources
+D:\foziljonov7\dev\Library\Library.Desktop\x64\Debug\LibraryDesktop.HomePage.resources
+D:\foziljonov7\dev\Library\Library.Desktop\x64\Debug\LibraryDesktop.MainWindow.resources
+D:\foziljonov7\dev\Library\Library.Desktop\x64\Debug\LibraryDesktop.ProductComponent.resources
+D:\foziljonov7\dev\Library\Library.Desktop\x64\Debug\LibraryDesktop.TopBookComponent.resources
+D:\foziljonov7\dev\Library\Library.Desktop\x64\Debug\LibraryDesktop.UpdateBookWindow.resources
+D:\foziljonov7\dev\Library\Library.Desktop\x64\Debug\Library.Desktop.vcxproj.GenerateResource.cache

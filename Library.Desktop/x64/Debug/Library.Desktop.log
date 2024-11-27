@@ -1,0 +1,7 @@
+﻿  BooksPage.cpp
+  HomePage.cpp
+  MainWindow.cpp
+  TopBookComponent.cpp
+  Generating Code...
+  BooksPage.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Library.Desktop.vcxproj -> D:\foziljonov7\dev\Library\x64\Debug\Library.Desktop.exe
